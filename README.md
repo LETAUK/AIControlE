@@ -17,6 +17,8 @@
 <img src="https://github.com/LETAUK/AIControlE/blob/main/img/90s.JPG" width="300" height="200">
 <img src="https://github.com/LETAUK/AIControlE/blob/main/img/180s.JPG" width="300" height="200">
 
+# 각 구성파일의 역할
+
 |파일명|설명|
 |------|---|
 |dataset폴더|데이터셋을 저장하는 폴더입니다|
@@ -28,4 +30,4 @@
 
 # 한계
 
-손의 여러가지 각도는 무리고 검지손가락 이외의 손가락으로 가리킬시 손가락인식이 불가능하다
+* 손의 여러가지 각도는 무리고 검지손가락 이외의 손가락으로 가리킬시 손가락인식이 불가능하다
