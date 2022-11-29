@@ -13,7 +13,5 @@
 
 실행
 1. 웹캠과 아두이노를 연결한후 손가락 방향을 바꾸면서 각도가 바뀌면 램프가 바뀌는지 확인한다.
-![0s](./img/0s.JPG)
 <img src="https://github.com/LETAUK/AIControlE/blob/main/img/180s.JPG" width="720" height="480">
-![90s](./img/90s.JPG)
-![180s](./img/180s.JPG)
+
