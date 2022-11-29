@@ -3,4 +3,4 @@
 
 아래 유사 프로젝트들의 소스코드를 적극 활용하였습니다.
 
-*[gesture-recognition by kairess](https://github.com/kairess/gesture-recognition)
+* [gesture-recognition by kairess](https://github.com/kairess/gesture-recognition)
