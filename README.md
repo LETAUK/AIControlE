@@ -16,3 +16,12 @@
 <img src="https://github.com/LETAUK/AIControlE/blob/main/img/0s.JPG" width="300" height="200">
 <img src="https://github.com/LETAUK/AIControlE/blob/main/img/90s.JPG" width="300" height="200">
 <img src="https://github.com/LETAUK/AIControlE/blob/main/img/180s.JPG" width="300" height="200">
+
+|파일명|설명|
+|------|---|
+|dataset폴더|데이터셋을 저장하는 폴더입니다|
+|models.h5|학습시킨 AI 모델입니다|
+|sketch_nov15a폴더|아두이노 파일입니다|
+|데이터셋.py|데이터셋을 만드는 실행파일입니다|
+|머신러닝.ipynb|AI학습을 시키는파일입니다|
+|실행.py|AI를 실행시키는 파일입니다|
